@@ -20,23 +20,30 @@ This project is beginner-friendly and great for learning loops, functions, and n
 🛠️ Technologies Used
 
 C Programming
+
 GCC Compiler
+
 Standard C Libraries (stdio.h, math.h)
 
 ▶️ How to Run
 Compile
+
 gcc main.c -o toolkit
+
 Run
 ./toolkit
 
 On Windows (MinGW / CodeBlocks)
+
 gcc main.c -o toolkit.exe
+
 toolkit.exe
+
 
 📂 Project Structure
 📁 number-system-toolkit
 │
-├── main.c        # Complete project source code
+├── Num_System_Toolkit.c        # Complete project source code
 ├── README.md     # Project documentation
 
 📸 Preview (Menu Example)
