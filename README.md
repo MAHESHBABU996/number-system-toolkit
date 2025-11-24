@@ -2,7 +2,9 @@
 📘 Number System Toolkit — C Project
 
 A menu-driven C program that performs various number operations such as digit counting, reversing, palindrome checking, Armstrong number validation, prime checking, factorial, power calculation, and more.
+
 This project is beginner-friendly and great for learning loops, functions, and number algorithms in C.
+
 
 🚀 Features
 
@@ -16,6 +18,7 @@ This project is beginner-friendly and great for learning loops, functions, and n
 ✔ Even / Odd check
 ✔ Power function
 ✔ Clean menu-driven design
+
 
 🛠️ Technologies Used
 
@@ -41,10 +44,13 @@ toolkit.exe
 
 
 📂 Project Structure
+
 📁 number-system-toolkit
 │
 ├── Num_System_Toolkit.c        # Complete project source code
+|
 ├── README.md     # Project documentation
+
 
 📸 Preview (Menu Example)
 ==============================
@@ -60,6 +66,7 @@ toolkit.exe
 8. Even or Odd
 9. Power
 10. Exit
+
 
 ✨ Author :
 Mahesh Babu Baswani
