@@ -2,7 +2,6 @@
 📘 Number System Toolkit — C Project
 
 A menu-driven C program that performs various number operations such as digit counting, reversing, palindrome checking, Armstrong number validation, prime checking, factorial, power calculation, and more.
-
 This project is beginner-friendly and great for learning loops, functions, and number algorithms in C.
 
 
@@ -46,10 +45,11 @@ toolkit.exe
 📂 Project Structure
 
 📁 number-system-toolkit
+
 │
-├── Num_System_Toolkit.c        # Complete project source code
+├── Num_System_Toolkit.c  # Complete project source code
 |
-├── README.md     # Project documentation
+├── README.md        # Project documentation
 
 
 📸 Preview (Menu Example)
